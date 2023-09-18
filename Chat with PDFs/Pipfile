@@ -11,6 +11,7 @@ openai = "*"
 numpy = "*"
 matplotlib = "*"
 pandas = "*"
+pillow = "*"
 
 [dev-packages]
 ipykernel = "*"
