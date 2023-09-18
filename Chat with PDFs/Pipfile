@@ -12,6 +12,7 @@ numpy = "*"
 matplotlib = "*"
 pandas = "*"
 pillow = "*"
+langchain = "*"
 
 [dev-packages]
 ipykernel = "*"
