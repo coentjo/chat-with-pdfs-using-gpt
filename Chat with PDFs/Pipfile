@@ -13,6 +13,8 @@ matplotlib = "*"
 pandas = "*"
 pillow = "*"
 langchain = "*"
+pypdf = "*"
+tiktoken = "*"
 
 [dev-packages]
 ipykernel = "*"
